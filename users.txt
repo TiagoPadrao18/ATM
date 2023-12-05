@@ -1,0 +1,12 @@
+cardNumber='1234567', name='Tiago', balance=11988000
+cardNumber='764321', name='Leo', balance=12011
+cardNumber='1234321', name='Ricardo', balance=20
+cardNumber='1234567', name='Tiago', balance=12000000
+cardNumber='764321', name='Leo', balance=11
+cardNumber='1234321', name='Ricardo', balance=20
+cardNumber='1234567', name='Tiago', balance=12000000
+cardNumber='764321', name='Leo', balance=11
+cardNumber='1234321', name='Ricardo', balance=20
+cardNumber='1234567', name='Tiago', balance=12000000
+cardNumber='764321', name='Leo', balance=11
+cardNumber='1234321', name='Ricardo', balance=20
